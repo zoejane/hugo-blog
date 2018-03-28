@@ -1,8 +1,20 @@
-baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+baseURL = "http://zoejane-blog.netlify.com"
+title = "Zoe Jane"
+theme = "jane"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane"
+
+publishDir = "docs"
+
+# Disqus Username
+disqusShortname = "zoejane-blog"
+
+# Google Analytics UA number
+googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© Copyright 2017 - AdaptiveProgrammer.com - Learn. Adapt. Build. Thrive."
+
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
@@ -17,7 +29,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "xianmin"
+  name = "zoejane"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -114,18 +126,5 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    e-linkedin = "http://localhost:1313"
-    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    k-pocket = "http://localhost:1313"
-    l-tumblr = "http://localhost:1313"
-    m-instagram = "http://localhost:1313"
-    n-gitlab = "http://en.xianmin.org/hugo-theme-jane/"
-    o-goodreads = "http://en.xianmin.org/hugo-theme-jane/"
+    a-email = "mailto:zoejane@zoejane.com"
+    g-github = "http://github.com/zoejane"
