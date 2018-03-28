@@ -6,15 +6,6 @@ enableEmoji = true
 
 publishDir = "docs"
 
-# Disqus Username
-disqusShortname = "zoejane-blog"
-
-# Google Analytics UA number
-googleAnalytics = "UA-XXXXXXXX-X"
-
-# Copyright of your post
-copyright = "© Copyright 2017 - AdaptiveProgrammer.com - Learn. Adapt. Build. Thrive."
-
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
