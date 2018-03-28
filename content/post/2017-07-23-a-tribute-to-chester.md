@@ -1,6 +1,5 @@
 ---
 date: 2017-07-23T00:00:00Z
-descriptioin: null
 title: A Tribute to Chester / 致敬 Chester
 ---
 
