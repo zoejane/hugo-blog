@@ -1,8 +1,8 @@
 baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+title = "Zoe Jane"
+theme = "jane"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane"
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
@@ -17,7 +17,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "xianmin"
+  name = "zoejane"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -114,5 +114,5 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    g-github = "http://localhost:1313"
+    a-email = "mailto:zoejane@zoejane.net"
+    g-github = "http://github.com/zoejane"
