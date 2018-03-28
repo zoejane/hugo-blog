@@ -1,6 +1,6 @@
 ---
 title: "English Creating a New Theme"
-date: 2017-08-31T15:43:48+08:00
+date: 2011-08-31T15:43:48+08:00
 lastmod: 2017-08-31T15:43:48+08:00
 draft: false
 tags: ["preview", "English", "tag-2"]
@@ -1156,3 +1156,5 @@ Note that we removed the date logic from the default template and put it in the 
 ### Don't Repeat Yourself
 
 DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you're figuring that out, accept that you'll be doing some refactoring. Hugo makes that easy and fast, so it's okay to delay splitting up a template.
+
+
