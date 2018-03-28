@@ -49,7 +49,7 @@ copyright = "life is wonderful"            # default: author.name ↓        # �
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
   since = "2018"            # Site creation time          # 站点建立时间
-  homeFullContent = true   # if false, show post summaries on home page. Othewise show full content.
+  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
